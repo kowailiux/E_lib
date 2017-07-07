@@ -1,0 +1,21 @@
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\bin\Debug\POS.exe
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\obj\Debug\POS.frmDashboard.resources
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\obj\Debug\POS.uControl.ucCatalog.resources
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\obj\Debug\POS.uControl.ucDashboard.resources
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\wl\Documents\Visual Studio 2013\Projects\POS\POS\obj\Debug\POS.pdb
+D:\waiNET\POS\POS\obj\Debug\POS.frmItem.resources
+D:\waiNET\POS\POS\obj\Debug\POS.frmDashboard.resources
+D:\waiNET\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\waiNET\POS\POS\obj\Debug\POS.uControl.ucAddItem.resources
+D:\waiNET\POS\POS\obj\Debug\POS.uControl.ucCatalog.resources
+D:\waiNET\POS\POS\obj\Debug\POS.uControl.ucDashboard.resources
+D:\waiNET\POS\POS\obj\Debug\POS.uControl.ucProduct.resources
+D:\waiNET\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+D:\waiNET\POS\POS\bin\Debug\POS.exe.config
+D:\waiNET\POS\POS\bin\Debug\POS.exe
+D:\waiNET\POS\POS\bin\Debug\POS.pdb
+D:\waiNET\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\waiNET\POS\POS\obj\Debug\POS.exe
+D:\waiNET\POS\POS\obj\Debug\POS.pdb
